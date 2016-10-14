@@ -83,7 +83,7 @@ p {font: italic 75%/125% "Comic Sans MS", cursive;}
 ## 颜色
 **属性**
 * 元素的背景色: background-color
-  1. transparent  属性将移除所有颜色, 呈现出父元素的背景色.
+  + transparent  属性将移除所有颜色, 呈现出父元素的背景色.
 
 
 ## 文本
