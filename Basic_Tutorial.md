@@ -1,5 +1,4 @@
-## 简介
-**Cascading Style Sheets (CSS) 层叠样式表**
+#CSS - Cascading Style Sheets 层叠样式表#
 
 ## 层叠及继承
 **层叠主要的三种样式来源：**
@@ -139,7 +138,7 @@ p {font: italic 75%/125% "Comic Sans MS", cursive;}
   counter-increment: mynum;
   font-weight: bold;
  }
-  
+ ```
 
 ## 盒模型
 * 内边距总是跟元素的背景色一致 (padding)
