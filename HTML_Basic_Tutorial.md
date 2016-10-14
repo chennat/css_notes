@@ -92,8 +92,8 @@ target | 规定 action 属性中地址的目标（默认：_self）
 <br />
 
 ### 表单元素
-* <select> 元素: (下拉列表).
-* <option> 元素: 待选择的选项.
+* \<select> 元素: (下拉列表).
+* \<option> 元素: 待选择的选项.
   + 默认显示为: 首个选项.
   + 添加 selected 属性为预定义选项
   ```js
@@ -105,14 +105,14 @@ target | 规定 action 属性中地址的目标（默认：_self）
   </select>
   ```
 
-* <textarea> 元素: 定义多行输入字段(文本域):
+* \<textarea> 元素: 定义多行输入字段(文本域):
 ```js
 <textarea name = "message" rows = "10" cols = "30">
 blablablalala
 </textarea>
 ```
 
-* <button> 元素: 定义可点击的按钮
+* \<button> 元素: 定义可点击的按钮
 ```js
 <button type = "button" onclik = "alert('hello world!')">Click me!</button>"
 ```
