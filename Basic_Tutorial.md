@@ -130,7 +130,7 @@ p {font: italic 75%/125% "Comic Sans MS", cursive;}
  + 在选择器增加 :before 或 a:after 
  + 设置 content: counter()
  
- '''js
+```js
  h3.numbered {counter-reset: mynum;} /* 初始化计数器 mynum */
  
  p.numbered:before {
@@ -138,7 +138,7 @@ p {font: italic 75%/125% "Comic Sans MS", cursive;}
   counter-increment: mynum;
   font-weight: bold;
  }
- ```
+```
 
 ## 盒模型
 * 内边距总是跟元素的背景色一致 (padding)
